@@ -36,6 +36,7 @@ coverage.xml
 .pytest_cache/
 
 # Build and docs folder/files
+DataSets/*
 build/*
 dist/*
 sdist/*
